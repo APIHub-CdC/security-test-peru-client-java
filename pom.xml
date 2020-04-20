@@ -4,7 +4,7 @@
     <groupId>io.securitytestperu</groupId>
     <artifactId>security-test-peru-java-client</artifactId>
     <packaging>jar</packaging>
-    <name>security-test-client</name>
+    <name>security-test-peru-java-client</name>
     <version>1.0.0</version>
 
     <licenses>
