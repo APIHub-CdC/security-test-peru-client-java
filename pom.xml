@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.securitytestperu</groupId>
-    <artifactId>security-test-peru-java-client</artifactId>
+    <artifactId>security-test-peru-client-java</artifactId>
     <packaging>jar</packaging>
-    <name>security-test-peru-java-client</name>
+    <name>security-test-peru-client-java</name>
     <version>1.0.0</version>
 
     <licenses>
